@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Application_TransportGUI</string>
+    <string name="google_map_API_key">AIzaSyAunb1gr-9xk56o6bfy0piXemiL85Jp7e0</string>
+    <string name="Location_maps">Map</string>
+</resources>
